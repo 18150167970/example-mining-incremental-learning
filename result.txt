@@ -1,0 +1,709 @@
+similarly:12.67139382306219
+max_number_index:3
+similarly:11.992344392043897
+max_number_index:4
+similarly:11.590255431221095
+max_number_index:2
+similarly:11.677805138322737
+max_number_index:2
+similarly:11.96984660229263
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120730_20']
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+similarly:3.067203303463793
+max_number_index:0
+similarly:3.031530625651655
+max_number_index:0
+similarly:2.9935393489552586
+max_number_index:4
+similarly:2.9539577349686295
+max_number_index:3
+similarly:2.944273591193329
+max_number_index:5
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_01111000_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120730_20']
+similarly:3.444854178147585
+similarly:3.4468878696504928
+similarly:3.4372280176675103
+similarly:3.403477784375759
+similarly:3.3856349530492706
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120730_20']
+similarly:11.054576933994095
+similarly:10.761366012578806
+similarly:10.484697322089144
+similarly:10.539073402735823
+similarly:11.502399516302901
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120730_20']
+similarly:12.67139382306219
+similarly2:13.2202025673293
+max_number_index:3
+similarly:11.992344392043897
+similarly2:12.462487842507405
+max_number_index:4
+similarly:11.590255431221095
+similarly2:11.977608625414643
+max_number_index:2
+similarly:11.677805138322737
+similarly2:12.265386186157874
+max_number_index:2
+similarly:11.96984660229263
+similarly2:12.713212177197367
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120730_20']
+similarly:12.67139382306219
+max_number_index:3
+similarly2:13.2202025673293
+similarly2:13.3193155083772
+similarly2:13.061585546272973
+similarly2:13.087821715733435
+similarly2:14.003807866758141
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120730_20']
+similarly:9.956959445459871
+max_number_index:3
+similarly:9.415836991661614
+max_number_index:4
+similarly:9.151940219605667
+max_number_index:2
+similarly:9.101680426368901
+max_number_index:2
+similarly:9.222518007903764
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120730_20']
+
+
+
+
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+0it [00:00, ?it/s]nms_Ensemble_all.py:763: RuntimeWarning: invalid value encountered in log
+  return -(np.dot(y.transpose(), np.nan_to_num(np.log(a))) + np.dot((1 - y).transpose(), np.nan_to_num(np.log(1 - a))))
+10it [00:03,  3.21it/s]nms_Ensemble_all.py:763: RuntimeWarning: divide by zero encountered in log
+  return -(np.dot(y.transpose(), np.nan_to_num(np.log(a))) + np.dot((1 - y).transpose(), np.nan_to_num(np.log(1 - a))))
+4952it [24:05,  3.60it/s]
+4952it [24:03,  3.56it/s]
+4952it [24:14,  3.53it/s]
+4952it [23:59,  3.56it/s]
+4952it [23:58,  3.52it/s]
+4952it [23:59,  3.56it/s]
+4952it [23:59,  3.55it/s]
+4952it [24:00,  3.54it/s]
+4952it [25:23,  3.24it/s]
+4952it [26:36,  3.29it/s]
+4952it [26:00,  3.47it/s]
+4952it [24:08,  3.53it/s]
+4952it [24:10,  3.53it/s]
+4952it [24:08,  3.52it/s]
+4952it [24:10,  3.50it/s]
+3.067203303463793
+0
+ensembel completed 5
+threshold 0.0001 result {'ap': array([0.6618087 , 0.7362327 , 0.61364659, 0.44844759, 0.43294837,
+       0.7117075 , 0.77341595, 0.76415369, 0.42303002, 0.63567582,
+       0.60388205, 0.72550922, 0.78650904, 0.6775566 , 0.73524721,
+       0.33054573, 0.60688999, 0.57660271, 0.71031408, 0.64805705]), 'map': 0.6301090306296879}
+nms result one completed
+['fasterrcnn_01111000_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+4952it [24:12,  3.50it/s]
+4952it [24:16,  3.52it/s]
+4952it [24:28,  3.47it/s]
+4952it [24:16,  3.50it/s]
+4952it [24:17,  3.50it/s]
+4952it [24:13,  3.51it/s]
+4952it [24:17,  3.49it/s]
+4952it [24:06,  3.53it/s]
+4952it [24:05,  3.52it/s]
+4952it [24:08,  3.52it/s]
+4952it [24:12,  3.51it/s]
+4952it [24:09,  3.52it/s]
+4952it [24:07,  3.53it/s]
+4952it [24:03,  3.53it/s]
+4952it [24:01,  3.53it/s]
+3.031530625651655
+0
+ensembel completed 6
+threshold 0.0001 result {'ap': array([0.65818018, 0.72906631, 0.61821762, 0.45617644, 0.47521893,
+       0.72166455, 0.78466084, 0.78089625, 0.44254375, 0.69067059,
+       0.61347758, 0.71604081, 0.78662935, 0.675686  , 0.73922577,
+       0.34406867, 0.62072619, 0.6183292 , 0.70758907, 0.64678867]), 'map': 0.6412928379558294}
+nms result one completed
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01120001_20']
+4952it [23:56,  3.58it/s]
+4952it [23:55,  3.57it/s]
+4952it [23:56,  3.57it/s]
+4952it [24:04,  3.54it/s]
+4952it [24:02,  3.54it/s]
+4952it [23:57,  3.56it/s]
+4952it [23:54,  3.56it/s]
+4952it [23:55,  3.56it/s]
+4952it [24:01,  3.53it/s]
+4952it [23:58,  3.54it/s]
+4952it [24:07,  3.50it/s]
+4952it [24:07,  3.52it/s]
+4952it [24:04,  3.53it/s]
+4952it [23:57,  3.49it/s]
+4952it [24:04,  3.54it/s]
+2.9935393489552586
+4
+ensembel completed 7
+threshold 0.0001 result {'ap': array([0.67339383, 0.74035288, 0.6337594 , 0.44774217, 0.47850756,
+       0.73867774, 0.79192671, 0.78857662, 0.45545834, 0.69563448,
+       0.62818173, 0.72536314, 0.78657009, 0.68415916, 0.74695279,
+       0.35454958, 0.63726982, 0.63170722, 0.72103323, 0.66022026]), 'map': 0.6510018376306064}
+nms result one completed
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+4952it [23:57,  3.57it/s]
+4952it [24:00,  3.54it/s]
+4952it [23:59,  3.54it/s]
+4952it [24:09,  3.51it/s]
+4952it [24:09,  3.52it/s]
+4952it [24:06,  3.54it/s]
+4952it [24:00,  3.54it/s]
+4952it [24:02,  3.55it/s]
+4952it [24:04,  3.54it/s]
+4952it [24:02,  3.54it/s]
+4952it [23:59,  3.57it/s]
+4952it [23:58,  3.54it/s]
+4952it [23:58,  3.55it/s]
+4952it [24:02,  3.51it/s]
+4952it [24:17,  3.53it/s]
+2.9539577349686295
+3
+ensembel completed 8
+threshold 0.0001 result {'ap': array([0.68479033, 0.75984958, 0.63831972, 0.47672482, 0.47168221,
+       0.75753745, 0.79854849, 0.80769705, 0.45635292, 0.70345047,
+       0.63074452, 0.74152154, 0.78399371, 0.71127037, 0.75475521,
+       0.36081016, 0.64490278, 0.62709282, 0.7432817 , 0.69124448]), 'map': 0.6622285161236717}
+nms result one completed
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120730_20']
+4952it [24:23,  3.50it/s]
+4952it [24:11,  3.51it/s]
+4952it [24:09,  3.55it/s]
+4952it [23:58,  3.54it/s]
+4952it [23:58,  3.56it/s]
+4952it [24:05,  3.52it/s]
+4952it [25:05,  3.28it/s]
+4952it [26:22,  3.02it/s]
+4952it [27:10,  3.47it/s]
+4952it [24:09,  3.53it/s]
+4952it [24:12,  3.51it/s]
+4952it [24:09,  3.51it/s]
+4952it [24:11,  3.52it/s]
+4952it [24:15,  3.51it/s]
+4952it [24:23,  3.50it/s]
+2.944273591193329
+5
+ensembel completed 9
+threshold 0.0001 result {'ap': array([0.68479033, 0.75984958, 0.63831972, 0.47672482, 0.47168221,
+       0.75753745, 0.79854849, 0.80769705, 0.45635292, 0.70345047,
+       0.63074452, 0.74152154, 0.78399371, 0.71127037, 0.75475521,
+       0.36081016, 0.64490278, 0.62709282, 0.7432817 , 0.69124448]), 'map': 0.6622285161236717}
+nms result one completed
+threshold 0.0001 result {'ap': array([0.68479033, 0.75984958, 0.63831972, 0.47672482, 0.47168221,
+       0.75753745, 0.79854849, 0.80769705, 0.45635292, 0.70345047,
+       0.63074452, 0.74152154, 0.78399371, 0.71127037, 0.75475521,
+       0.36081016, 0.64490278, 0.62709282, 0.7432817 , 0.69124448]), 'map': 0.6622285161236717}
+nms result one completed
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+  File "nms_Ensemble_all.py", line 918
+    for i in range(1，6):
+                     ^
+SyntaxError: invalid character in identifier
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+0it [00:00, ?it/s]nms_Ensemble_all.py:763: RuntimeWarning: invalid value encountered in log
+  return -(np.dot(y.transpose(), np.nan_to_num(np.log(a))) + np.dot((1 - y).transpose(), np.nan_to_num(np.log(1 - a))))
+10it [00:03,  3.17it/s]nms_Ensemble_all.py:763: RuntimeWarning: divide by zero encountered in log
+  return -(np.dot(y.transpose(), np.nan_to_num(np.log(a))) + np.dot((1 - y).transpose(), np.nan_to_num(np.log(1 - a))))
+4952it [23:51,  3.49it/s]
+4952it [23:53,  3.57it/s]
+4952it [23:52,  3.49it/s]
+4952it [24:28,  3.46it/s]
+4952it [24:29,  3.41it/s]
+4952it [24:28,  3.49it/s]
+4952it [24:12,  3.54it/s][[C
+4952it [23:56,  3.57it/s]
+4952it [23:57,  3.58it/s]
+4952it [23:57,  3.57it/s]
+ensembel completed 5
+threshold 0.0001 result {'ap': array([0.6603583 , 0.73649984, 0.61011655, 0.44409514, 0.43138209,
+       0.71362915, 0.77416012, 0.77205298, 0.42445186, 0.63855907,
+       0.60518724, 0.72567069, 0.78714822, 0.68130467, 0.73650233,
+       0.3304288 , 0.61372948, 0.57325104, 0.71223304, 0.646514  ]), 'map': 0.6308637303830978}
+nms result one completed
+['fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20']
+4952it [23:50,  3.56it/s]
+4952it [24:03,  3.52it/s]
+4952it [24:01,  3.50it/s]
+4952it [24:01,  3.53it/s]
+4952it [24:06,  3.49it/s]
+4952it [24:03,  3.51it/s]
+4952it [24:01,  3.51it/s]
+4952it [23:59,  3.53it/s]
+4952it [23:52,  3.54it/s]
+4952it [23:56,  3.53it/s]
+ensembel completed 6
+threshold 0.0001 result {'ap': array([0.66743383, 0.73939617, 0.62038465, 0.45457944, 0.47781406,
+       0.7192503 , 0.78807452, 0.78533179, 0.44215783, 0.68440744,
+       0.59884202, 0.71804965, 0.79066433, 0.68657837, 0.74436932,
+       0.33900926, 0.62573301, 0.60673829, 0.72250029, 0.65195377]), 'map': 0.6431634165288689}
+nms result one completed
+['fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+4952it [24:00,  3.53it/s]
+4952it [23:58,  3.52it/s]
+4952it [24:02,  3.54it/s]
+4952it [23:56,  3.54it/s]
+4952it [23:56,  3.53it/s]
+4952it [24:04,  3.47it/s]
+4952it [24:04,  3.52it/s]
+4952it [24:02,  3.54it/s]
+4952it [23:54,  3.54it/s]
+4952it [23:55,  3.54it/s]
+ensembel completed 7
+threshold 0.0001 result {'ap': array([0.68960056, 0.74542715, 0.61784928, 0.47453354, 0.49302416,
+       0.74615603, 0.7931778 , 0.78513572, 0.44979225, 0.69080287,
+       0.62782711, 0.71367387, 0.80302022, 0.68265597, 0.75315016,
+       0.36129999, 0.63962162, 0.6157016 , 0.72676932, 0.65796479]), 'map': 0.6533592010120927}
+nms result one completed
+['fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+4952it [24:03,  3.50it/s]
+4952it [24:02,  3.52it/s]
+4952it [24:00,  3.54it/s]
+4952it [23:55,  3.54it/s]
+4952it [24:00,  3.50it/s]
+4952it [24:06,  3.50it/s]
+4952it [24:01,  3.53it/s]
+4952it [24:04,  3.48it/s]
+4952it [24:23,  3.49it/s]
+4952it [24:05,  3.50it/s]
+ensembel completed 8
+threshold 0.0001 result {'ap': array([0.69894202, 0.75786784, 0.63461148, 0.49596589, 0.49391221,
+       0.76027701, 0.80001598, 0.81569144, 0.45968925, 0.69266942,
+       0.62639381, 0.72715518, 0.79494377, 0.70378906, 0.75997381,
+       0.3655127 , 0.63273606, 0.62217804, 0.74743607, 0.67996715]), 'map': 0.6634864101384885}
+nms result one completed
+['fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120730_20']
+4952it [24:11,  3.54it/s]
+4952it [24:17,  3.49it/s]
+4952it [24:12,  3.52it/s]
+4952it [24:03,  3.50it/s]
+4952it [24:03,  3.52it/s]
+4952it [24:10,  3.48it/s]
+4952it [25:21,  3.33it/s]
+4952it [25:27,  3.42it/s]
+4952it [24:44,  3.43it/s]
+4952it [24:46,  3.39it/s]
+ensembel completed 9
+threshold 0.0001 result {'ap': array([0.68759987, 0.75744867, 0.65209472, 0.49146317, 0.49007534,
+       0.76410778, 0.80508183, 0.83104605, 0.46832328, 0.67920628,
+       0.61140945, 0.75376211, 0.79880308, 0.69875797, 0.76193136,
+       0.38374949, 0.63495355, 0.63179972, 0.74258553, 0.68913544]), 'map': 0.6666667341107624}
+nms result one completed
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+ensembel completed 5
+threshold 0.0001 result {'ap': array([0.6603583 , 0.73649984, 0.61011655, 0.44409514, 0.43138209,
+       0.71362915, 0.77416012, 0.77205298, 0.42445186, 0.63855907,
+       0.60518724, 0.72567069, 0.78714822, 0.68130467, 0.73650233,
+       0.3304288 , 0.61372948, 0.57325104, 0.71223304, 0.646514  ]), 'map': 0.6308637303830978}
+nms result one completed
+['fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20']
+ensembel completed 6
+threshold 0.0001 result {'ap': array([0.66743383, 0.73939617, 0.62038465, 0.45457944, 0.47781406,
+       0.7192503 , 0.78807452, 0.78533179, 0.44215783, 0.68440744,
+       0.59884202, 0.71804965, 0.79066433, 0.68657837, 0.74436932,
+       0.33900926, 0.62573301, 0.60673829, 0.72250029, 0.65195377]), 'map': 0.6431634165288689}
+nms result one completed
+['fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+ensembel completed 7
+threshold 0.0001 result {'ap': array([0.68960056, 0.74542715, 0.61784928, 0.47453354, 0.49302416,
+       0.74615603, 0.7931778 , 0.78513572, 0.44979225, 0.69080287,
+       0.62782711, 0.71367387, 0.80302022, 0.68265597, 0.75315016,
+       0.36129999, 0.63962162, 0.6157016 , 0.72676932, 0.65796479]), 'map': 0.6533592010120927}
+nms result one completed
+['fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+ensembel completed 8
+threshold 0.0001 result {'ap': array([0.69894202, 0.75786784, 0.63461148, 0.49596589, 0.49391221,
+       0.76027701, 0.80001598, 0.81569144, 0.45968925, 0.69266942,
+       0.62639381, 0.72715518, 0.79494377, 0.70378906, 0.75997381,
+       0.3655127 , 0.63273606, 0.62217804, 0.74743607, 0.67996715]), 'map': 0.6634864101384885}
+nms result one completed
+['fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120730_20']
+ensembel completed 9
+threshold 0.0001 result {'ap': array([0.68759987, 0.75744867, 0.65209472, 0.49146317, 0.49007534,
+       0.76410778, 0.80508183, 0.83104605, 0.46832328, 0.67920628,
+       0.61140945, 0.75376211, 0.79880308, 0.69875797, 0.76193136,
+       0.38374949, 0.63495355, 0.63179972, 0.74258553, 0.68913544]), 'map': 0.6666667341107624}
+nms result one completed
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+12.67139382306219
+3
+ensembel completed 5
+threshold 0.0001 result {'ap': array([0.65769021, 0.73112452, 0.6167671 , 0.43579102, 0.4154378 ,
+       0.71301731, 0.7686339 , 0.78106965, 0.42540781, 0.63470975,
+       0.60502907, 0.71504136, 0.78721547, 0.67175921, 0.73471903,
+       0.33103529, 0.6024992 , 0.5788085 , 0.70546083, 0.6351783 ]), 'map': 0.6273197664642424}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+11.992344392043897
+4
+ensembel completed 6
+threshold 0.0001 result {'ap': array([0.6535105 , 0.74253059, 0.63360579, 0.43673455, 0.45902236,
+       0.70447018, 0.78096077, 0.80886095, 0.44842053, 0.68482352,
+       0.61078326, 0.72623262, 0.78056987, 0.68270448, 0.74105635,
+       0.33114098, 0.60575572, 0.61119485, 0.71049979, 0.65237075]), 'map': 0.640262420937751}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+11.590255431221095
+2
+ensembel completed 7
+threshold 0.0001 result {'ap': array([0.68417333, 0.75290919, 0.6337114 , 0.46787873, 0.48600445,
+       0.74861439, 0.80219006, 0.81056811, 0.45336239, 0.66674204,
+       0.63369966, 0.73531879, 0.79414058, 0.69172112, 0.75584093,
+       0.35096951, 0.63423264, 0.62997468, 0.72850902, 0.67446154]), 'map': 0.6567511278587053}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120447_20']
+11.677805138322737
+2
+ensembel completed 8
+threshold 0.0001 result {'ap': array([0.68820616, 0.76549572, 0.64532173, 0.48835524, 0.4869125 ,
+       0.75601788, 0.80412124, 0.83094228, 0.46051751, 0.67686564,
+       0.60919738, 0.75547376, 0.78700529, 0.69748282, 0.76125823,
+       0.36167256, 0.65313425, 0.61791418, 0.74042751, 0.67779707]), 'map': 0.6632059465066216}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120730_20']
+11.96984660229263
+2
+ensembel completed 9
+threshold 0.0001 result {'ap': array([0.68084884, 0.75990088, 0.64893978, 0.48000225, 0.48786984,
+       0.75432824, 0.80268909, 0.82508581, 0.46207353, 0.68111791,
+       0.60718288, 0.75696905, 0.78444296, 0.69842238, 0.76319597,
+       0.38101127, 0.6547174 , 0.60830312, 0.74038427, 0.67663478]), 'map': 0.6627060128569584}
+nms result one completed
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+12.67139382306219
+3
+ensembel completed 5
+^CTraceback (most recent call last):
+  File "nms_Ensemble_all.py", line 979, in <module>
+    one_by_one()
+  File "nms_Ensemble_all.py", line 633, in one_by_one
+    gt_bboxes, gt_labels, gt_difficults, threshold=threshold)
+  File "nms_Ensemble_all.py", line 468, in nms_reuslt
+    use_07_metric=True)
+  File "nms_Ensemble_all.py", line 190, in eval_detection_voc
+    iou_thresh=iou_thresh)
+  File "nms_Ensemble_all.py", line 266, in calc_detection_voc_prec_rec
+    pred_bbox_l = pred_bbox[pred_mask_l]
+KeyboardInterrupt
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+ensembel completed 5
+threshold 0.0001 result {'ap': array([0.6603583 , 0.73649984, 0.61011655, 0.44409514, 0.43138209,
+       0.71362915, 0.77416012, 0.77205298, 0.42445186, 0.63855907,
+       0.60518724, 0.72567069, 0.78714822, 0.68130467, 0.73650233,
+       0.3304288 , 0.61372948, 0.57325104, 0.71223304, 0.646514  ]), 'map': 0.6308637303830978}
+nms result one completed
+['fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20']
+ensembel completed 6
+threshold 0.0001 result {'ap': array([0.66743383, 0.73939617, 0.62038465, 0.45457944, 0.47781406,
+       0.7192503 , 0.78807452, 0.78533179, 0.44215783, 0.68440744,
+       0.59884202, 0.71804965, 0.79066433, 0.68657837, 0.74436932,
+       0.33900926, 0.62573301, 0.60673829, 0.72250029, 0.65195377]), 'map': 0.6431634165288689}
+nms result one completed
+['fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+ensembel completed 7
+threshold 0.0001 result {'ap': array([0.68960056, 0.74542715, 0.61784928, 0.47453354, 0.49302416,
+       0.74615603, 0.7931778 , 0.78513572, 0.44979225, 0.69080287,
+       0.62782711, 0.71367387, 0.80302022, 0.68265597, 0.75315016,
+       0.36129999, 0.63962162, 0.6157016 , 0.72676932, 0.65796479]), 'map': 0.6533592010120927}
+nms result one completed
+['fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+ensembel completed 8
+      threshold 0.0001 result {'ap': array([0.69894202, 0.75786784, 0.63461148, 0.49596589, 0.49391221,
+       0.76027701, 0.80001598, 0.81569144, 0.45968925, 0.69266942,
+       0.62639381, 0.72715518, 0.79494377, 0.70378906, 0.75997381,
+       0.3655127 , 0.63273606, 0.62217804, 0.74743607, 0.67996715]), 'map': 0.6634864101384885}
+nms result one completed
+['fasterrcnn_01110519_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120730_20']
+ensembel completed 9
+threshold 0.0001 result {'ap': array([0.68759987, 0.75744867, 0.65209472, 0.49146317, 0.49007534,
+       0.76410778, 0.80508183, 0.83104605, 0.46832328, 0.67920628,
+       0.61140945, 0.75376211, 0.79880308, 0.69875797, 0.76193136,
+       0.38374949, 0.63495355, 0.63179972, 0.74258553, 0.68913544]), 'map': 0.6666667341107624}
+nms result one completed
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$ python3 nms_Ensemble_all.py 
+WARNING:root:Setting up a new session...
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+12.67139382306219
+3
+ensembel completed 5
+threshold 0.0001 result {'ap': array([0.65769021, 0.73112452, 0.6167671 , 0.43579102, 0.4154378 ,
+       0.71301731, 0.7686339 , 0.78106965, 0.42540781, 0.63470975,
+       0.60502907, 0.71504136, 0.78721547, 0.67175921, 0.73471903,
+       0.33103529, 0.6024992 , 0.5788085 , 0.70546083, 0.6351783 ]), 'map': 0.6273197664642424}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+11.992344392043897
+4
+ensembel completed 6
+threshold 0.0001 result {'ap': array([0.6535105 , 0.74253059, 0.63360579, 0.43673455, 0.45902236,
+       0.70447018, 0.78096077, 0.80886095, 0.44842053, 0.68482352,
+       0.61078326, 0.72623262, 0.78056987, 0.68270448, 0.74105635,
+       0.33114098, 0.60575572, 0.61119485, 0.71049979, 0.65237075]), 'map': 0.640262420937751}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+11.590255431221095
+2
+ensembel completed 7
+threshold 0.0001 result {'ap': array([0.68417333, 0.75290919, 0.6337114 , 0.46787873, 0.48600445,
+       0.74861439, 0.80219006, 0.81056811, 0.45336239, 0.66674204,
+       0.63369966, 0.73531879, 0.79414058, 0.69172112, 0.75584093,
+       0.35096951, 0.63423264, 0.62997468, 0.72850902, 0.67446154]), 'map': 0.6567511278587053}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120447_20']
+11.677805138322737
+2
+ensembel completed 8
+threshold 0.0001 result {'ap': array([0.68820616, 0.76549572, 0.64532173, 0.48835524, 0.4869125 ,
+       0.75601788, 0.80412124, 0.83094228, 0.46051751, 0.67686564,
+       0.60919738, 0.75547376, 0.78700529, 0.69748282, 0.76125823,
+       0.36167256, 0.65313425, 0.61791418, 0.74042751, 0.67779707]), 'map': 0.6632059465066216}
+nms result one completed
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120730_20']
+11.96984660229263
+2
+ensembel completed 9
+threshold 0.0001 result {'ap': array([0.68084884, 0.75990088, 0.64893978, 0.48000225, 0.48786984,
+       0.75432824, 0.80268909, 0.82508581, 0.46207353, 0.68111791,
+       0.60718288, 0.75696905, 0.78444296, 0.69842238, 0.76319597,
+       0.38101127, 0.6547174 , 0.60830312, 0.74038427, 0.67663478]), 'map': 0.6627060128569584}
+nms result one completed
+chenli@chenli-D520MT-K:/media/chenli/E/reconsitution/ensemble/ensemble$
+similarly:7.729959445459873
+max_number_index:3
+similarly:7.183836991661613
+max_number_index:4
+similarly:6.846940219605666
+max_number_index:2
+similarly:6.8316804263689015
+max_number_index:2
+similarly:6.954518007903763
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01120730_20']
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+similarly:0.023854178147584615
+max_number_index:0
+similarly:-0.002112130349507302
+max_number_index:1
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_01111000_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_01111000_20', 'fasterrcnn_01111921_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01120001_20']
+similarly:3.999683919954438
+max_number_index:5
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+similarly:2.4448541781475845
+max_number_index:0
+similarly:2.416555171774233
+max_number_index:0
+similarly:2.3833682305312602
+max_number_index:4
+similarly:2.3501064029904595
+max_number_index:3
+similarly:2.3501064029904604
+max_number_index:5
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111000_20']
+['fasterrcnn_01111000_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01111921_20']
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01110519_20', 'fasterrcnn_01120001_20']
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01110039_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120447_20']
+['fasterrcnn_01111921_20', 'fasterrcnn_01101517_20', 'fasterrcnn_01101958_20', 'fasterrcnn_01120447_20', 'fasterrcnn_01120001_20', 'fasterrcnn_01120730_20']
+similarly:2.2617249176877636
+max_number_index:0
+ensemble_type:loss
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290653_15']
+['fasterrcnn_07290653_15', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290907_15']
+similarly:7.452211299066237
+max_number_index:3
+similarly:7.377369688720188
+max_number_index:4
+similarly:7.2452601041016695
+max_number_index:4
+similarly:7.069655656715926
+max_number_index:4
+similarly:6.988580347548194
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290653_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290907_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290907_15', 'fasterrcnn_07291122_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291122_15', 'fasterrcnn_07291338_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291338_15', 'fasterrcnn_07291553_15']
+similarly:9.683211299066237
+max_number_index:3
+similarly:9.631369688720188
+max_number_index:4
+similarly:9.48326010410167
+max_number_index:4
+similarly:9.311655656715924
+max_number_index:4
+similarly:9.311655656715926
+max_number_index:5
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290653_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290907_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290907_15', 'fasterrcnn_07291122_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291122_15', 'fasterrcnn_07291338_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291338_15', 'fasterrcnn_07291553_15']
+similarly:7.452211299066237
+max_number_index:3
+similarly:7.377369688720188
+max_number_index:4
+similarly:7.2452601041016695
+max_number_index:4
+similarly:7.069655656715926
+max_number_index:4
+similarly:6.988580347548194
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290653_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290907_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290907_15', 'fasterrcnn_07291122_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291122_15', 'fasterrcnn_07291338_15']
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291338_15', 'fasterrcnn_07291553_15']
+ensemble_type:mAP
+ensemble_type:mAP
+ensemble_type:mAP
+result:[0.625405541061608]
+result:[0.6339531453185028]
+result:[0.6396457589438561]
+result:[0.6473030566122333]
+result:[0.6554192484010998]
+similarly:7.452211299066237
+max_number_index:3
+similarly:7.377369688720188
+max_number_index:4
+similarly:7.2452601041016695
+max_number_index:4
+similarly:7.069655656715926
+max_number_index:4
+similarly:6.988580347548194
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290653_15']
+result:[0.6221649788963171]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290907_15']
+result:[0.6334468782015635]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290907_15', 'fasterrcnn_07291122_15']
+result:[0.637194715919468]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291122_15', 'fasterrcnn_07291338_15']
+result:[0.6448938827589485]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291338_15', 'fasterrcnn_07291553_15']
+result:[0.6684363464395398]
+similarly:7.452211299066237
+max_number_index:3
+similarly:7.377369688720188
+max_number_index:4
+similarly:7.2452601041016695
+max_number_index:4
+similarly:7.069655656715926
+max_number_index:4
+similarly:6.988580347548194
+max_number_index:2
+ensemble_type:mAP
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290223_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290653_15']
+result:[{'ap': array([0.66399894, 0.71881097, 0.60390306, 0.44447495, 0.41006537,
+       0.69030583, 0.76585527, 0.74265954, 0.41157936, 0.63265523,
+       0.60010793, 0.71514163, 0.79169859, 0.66760566, 0.72992592,
+       0.31337126, 0.608176  , 0.57239938, 0.72022816, 0.64033652]), 'map': 0.6221649788963171}]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290438_15', 'fasterrcnn_07290907_15']
+result:[{'ap': array([0.64670518, 0.74172887, 0.60976467, 0.47100214, 0.42148743,
+       0.69992971, 0.7737159 , 0.7722421 , 0.44120546, 0.66768701,
+       0.6034705 , 0.73566704, 0.78701045, 0.66681791, 0.73292879,
+       0.31372939, 0.61072779, 0.58382967, 0.74314037, 0.6461472 ]), 'map': 0.6334468782015635}]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07290907_15', 'fasterrcnn_07291122_15']
+result:[{'ap': array([0.65457779, 0.73806728, 0.62624589, 0.47108162, 0.42691631,
+       0.70572997, 0.77236753, 0.78658085, 0.44054284, 0.65956256,
+       0.61940459, 0.72235094, 0.78368119, 0.6783472 , 0.74347331,
+       0.32542314, 0.61321241, 0.5854918 , 0.72537761, 0.66545951]), 'map': 0.637194715919468}]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291122_15', 'fasterrcnn_07291338_15']
+result:[{'ap': array([0.66374402, 0.73518173, 0.6323569 , 0.47586104, 0.43359025,
+       0.7435596 , 0.77394922, 0.79134561, 0.45720374, 0.67265508,
+       0.6290488 , 0.72000077, 0.78195886, 0.68366945, 0.74360859,
+       0.32169489, 0.62451612, 0.60767711, 0.75156734, 0.65468853]), 'map': 0.6448938827589485}]
+['fasterrcnn_12201310_20', 'fasterrcnn_07282152_15', 'fasterrcnn_07290007_15', 'fasterrcnn_07290653_15', 'fasterrcnn_07291338_15', 'fasterrcnn_07291553_15']
+result:[{'ap': array([0.67987781, 0.76057041, 0.65904196, 0.50468991, 0.46361355,
+       0.76902842, 0.79421635, 0.82177272, 0.47821815, 0.71796242,
+       0.62893152, 0.74633858, 0.79391955, 0.68678469, 0.75630101,
+       0.37538653, 0.6476683 , 0.6347669 , 0.75542961, 0.69420854]), 'map': 0.6684363464395398}]
+ensemble_type:mAP
+result:[{'ap': array([0.63615112, 0.72279539, 0.61433064, 0.44154304, 0.41469004,
+       0.69546612, 0.76664006, 0.74837379, 0.41580584, 0.63596206,
+       0.61381592, 0.7266615 , 0.78554867, 0.67291677, 0.73111553,
+       0.3208207 , 0.6207482 , 0.56988936, 0.7206233 , 0.65421276]), 'map': 0.625405541061608}]
+result:[{'ap': array([0.64313967, 0.7411217 , 0.61895599, 0.46564553, 0.42602106,
+       0.70154359, 0.77317383, 0.75636956, 0.42700654, 0.66755215,
+       0.60996912, 0.73114602, 0.78530112, 0.67573108, 0.7317324 ,
+       0.32509349, 0.62229235, 0.5876912 , 0.73268763, 0.65688888]), 'map': 0.6339531453185028}]
+result:[{'ap': array([0.64119352, 0.74597576, 0.61978018, 0.48628738, 0.4418063 ,
+       0.70090238, 0.77337712, 0.78641015, 0.43523608, 0.66610658,
+       0.61959116, 0.72542401, 0.78598169, 0.69481273, 0.74158548,
+       0.33217562, 0.62404546, 0.58421328, 0.72784503, 0.66016527]), 'map': 0.6396457589438561}]
+result:[{'ap': array([0.65747737, 0.74440242, 0.62761757, 0.48722006, 0.45463965,
+       0.71825655, 0.77428378, 0.80061803, 0.44094597, 0.68162242,
+       0.61662284, 0.72557629, 0.78888986, 0.69777016, 0.74577503,
+       0.34247395, 0.62825083, 0.60429164, 0.74487954, 0.66444717]), 'map': 0.6473030566122333}]
+result:[{'ap': array([0.67178982, 0.75588037, 0.63835237, 0.48655043, 0.45536774,
+       0.72967792, 0.78076674, 0.80663555, 0.46622576, 0.69546137,
+       0.62871586, 0.73914593, 0.79774954, 0.70195043, 0.74609735,
+       0.34705084, 0.63464005, 0.61447503, 0.74048669, 0.67136518]), 'map': 0.6554192484010998}]
